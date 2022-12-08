@@ -2,7 +2,7 @@
 
     Leo Franco Soto - francst2
     Pranav Bhandari - ppb4
-    Krzysztof Dukta - kdutka2
+    Krzysztof Dutka - kdutka2
     Dushyant Singh Udawat - ds35
 
 # Problem Statement 
@@ -28,7 +28,7 @@ All data used for the analysis are available at -
 
 > Version 1.1, Oct 26, 2016
 
-> Copyright (C) [2022] [Dushyant Singh Udawat, Pranav Bhandari, Krzysztof Dtuka, Leo Franco Soto]
+> Copyright (C) [2022] [Dushyant Singh Udawat, Pranav Bhandari, Krzysztof Dutka, Leo Franco Soto]
 
 Everyone is permitted to copy and distribute verbatim or modified
 copies of the analysis notebook.
