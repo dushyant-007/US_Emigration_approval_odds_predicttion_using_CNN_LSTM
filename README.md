@@ -2,7 +2,7 @@
 
     Leo Franco Soto - francst2
     Pranav Bhandari - ppb4
-    Krzysztof Dtuka - kdutka2
+    Krzysztof Dukta - kdutka2
     Dushyant Singh Udawat - ds35
 
 # Problem Statement 
