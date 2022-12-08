@@ -14,11 +14,9 @@ We are given data regarding approved and Denied visas for various employers and 
 
 All data used for the analysis are available at - 
 1. Visa Approved/Denied Data - https://www.dol.gov/agencies/eta/foreign-labor/performance
-2. New Housing Construction Data - https://www.census.gov/construction/nrc/index.html
 
 # Files in the Project 
-1. Debug_Data.csv - It is not required since out whole dataset take less than 2 mins time to process.  
-2. LCA_Disclosure_Data_FY2022_Q3.csv - Complete training data. 
+1. Debug_Data.csv - It is not required since out whole dataset take less than 2 mins time to process. 
 3. Data Cleaning and Wrangling.ipynb - Analysis notebook.
 4. visas.docx - A document file containing information about the project.
 5. datafile_construction.pkl - pickled cleaned data
