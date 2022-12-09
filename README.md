@@ -15,14 +15,11 @@ We are given data regarding approved and Denied visas for various employers and 
 All data used for the analysis are available at - 
 1. Visa Approved/Denied Data - https://www.dol.gov/agencies/eta/foreign-labor/performance
 
-# Files in the Project 
-1. Debug_Data.csv - It is not required since out whole dataset take less than 2 mins time to process. 
-3. Analysis Notebook.ipynb - Analysis notebook.
-4. visas.docx - A document file containing information about the project.
-5. datafile_construction.pkl - pickled cleaned data
-6. datafile_visas.pkl - pickled cleaned data on visa status
-7. copy of MileStones - as name says
-8. construction_data.csv - data of in progress construction project. 
+# Files in the Project  
+1. Analysis Notebook.ipynb - Analysis notebook.
+2. visas.docx - A document file containing information about the project.
+3. datafile_visas.pkl - pickled cleaned data on visa status
+4. copy of MileStones - as name says
 
 # LICENSE
 
