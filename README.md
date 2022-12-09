@@ -17,7 +17,7 @@ All data used for the analysis are available at -
 
 # Files in the Project 
 1. Debug_Data.csv - It is not required since out whole dataset take less than 2 mins time to process. 
-3. Data Cleaning and Wrangling.ipynb - Analysis notebook.
+3. Analysis Notebook.ipynb - Analysis notebook.
 4. visas.docx - A document file containing information about the project.
 5. datafile_construction.pkl - pickled cleaned data
 6. datafile_visas.pkl - pickled cleaned data on visa status
